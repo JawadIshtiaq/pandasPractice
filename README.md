@@ -34,10 +34,13 @@ pip install pandas
 1. Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/JawadIshtiaq/pandasPractice.git
 ```
 
 3. Explore the code examples and datasets provided in the repository to learn about different data wrangling and cleaning techniques using Pandas.
+
+## Dataset
+The dataset is imported from Kaggle.com and can be used for public analysis.
 
 ## Examples
 
