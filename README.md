@@ -64,4 +64,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to modif
 
 ---
 
-Happy data wrangling and cleaning with Pandas! If you have any questions or suggestions, feel free to contact me at your.email@example.com.
+Happy data wrangling and cleaning with Pandas! If you have any questions or suggestions, feel free to contact me at jawadishtiaq298@gmail.com 
